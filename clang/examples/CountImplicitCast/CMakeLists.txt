@@ -1,0 +1,1 @@
+add_llvm_library(CountImplicitCast MODULE CountImplicitCast.cpp PLUGIN_TOOL clang)
